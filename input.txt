@@ -1,3 +1,4 @@
+# no spaces in titles for bar, title properties
 title test
 # place bars here as, bar <title> <val>\n
 bar A 1

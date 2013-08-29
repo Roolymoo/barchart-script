@@ -101,6 +101,7 @@ class App:
 
         return 0
 
+
 def _load_barchart_data(FILE_NAME):
     '''(str) -> dict
     Loads the barchart data given in FILE_NAME into a dict and returns it.
